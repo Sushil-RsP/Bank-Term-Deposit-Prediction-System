@@ -101,8 +101,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ## Usage
 
 ### Running the Analysis
-1. Ensure `bank.csv` is available in `C:\Users\LENOVO\Downloads\`
-2. Open `Sushil_Chavan.ipynb` in Jupyter Notebook or VS Code
+1. Ensure `bank.csv` is available in `your path`
+2. Open `Bank-Term-Deposit-Prediction-System.ipynb` in Jupyter Notebook or VS Code
 3. Run cells sequentially from top to bottom
 4. Review visualizations and model performance metrics
 
@@ -114,7 +114,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ## Project Structure
 ```
 .
-├── Sushil_Chavan.ipynb    # Main analysis notebook
+├── Bank-Term-Deposit-Prediction-System.ipynb    # Main analysis notebook
 ├── README.md              # Project documentation (this file)
 └── bank.csv              # Dataset (in Downloads folder)
 ```
@@ -142,6 +142,3 @@ Sushil Chavan
 
 ## License
 This project is for educational and analytical purposes.
-
----
-*Last Updated: January 2026*
